@@ -8,7 +8,7 @@ This repository provides documentation and data access for the global 8-day **Gr
 
 The complete dataset is available on Zenodo:
 
-- **[Global 8-Day CPM GPP Dataset](https://doi.org/10.5281/zenodo.21530751)**
+- **[Global 8-Day CPM GPP Dataset](https://doi.org/10.5281/zenodo.21530750)**
 
 The annual NetCDF data files are not stored in this GitHub repository.
 
@@ -86,7 +86,7 @@ Please cite the following publication when using this dataset:
 > https://doi.org/10.1016/j.rse.2026.115468
 
 **Dataset DOI:**  
-https://doi.org/10.5281/zenodo.21530751
+https://doi.org/10.5281/zenodo.21530750
 
 ---
 
